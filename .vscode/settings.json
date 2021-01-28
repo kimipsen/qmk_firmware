@@ -28,6 +28,10 @@
     "[json]": {
         "editor.formatOnSave": false
     },
+    "jira-plugin.workingProject": "",
+    "cmake.configureOnOpen": true
+        "editor.formatOnSave": false
+    },
     "clangd.arguments": [
         "--header-insertion=never"
     ]
